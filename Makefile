@@ -1,6 +1,6 @@
 CC = g++
-OPENSSL_INCLUDE_PATH = /usr/local/opt/openssl/include
-OPENSSL_LIB_PATH = /usr/local/opt/openssl/lib
+OPENSSL_INCLUDE_PATH = /usr/local/opt/openssl@1.1/include
+OPENSSL_LIB_PATH = /usr/local/opt/openssl@1.1/lib
 CAPSTONE_INCLUDE_PATH = #/usr/local/Cellar/capstone/4.0.1/include
 CAPSTONE_LIB_PATH = #/usr/local/Cellar/capstone/4.0.1/lib
 KEYSTONE_INCLUDE_PATH = #/usr/local/Cellar/keystone/0.9.1/include
